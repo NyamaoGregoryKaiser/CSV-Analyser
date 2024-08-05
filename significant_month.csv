@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-26T14:28:29.143Z,32.766,-100.659,3.2959,5.1,ml,38,30,0.1,0.3,tx,tx2024ophu,2024-07-27T16:31:30.118Z,"17 km NNE of Hermleigh, Texas",earthquake,1.7481024574264894,1.5279342440950845,0.1,43,reviewed,tx,tx
+2024-07-23T03:38:42.943Z,32.766,-100.659,3.1982,4.9,ml,37,48,0.1,0.4,tx,tx2024oizv,2024-07-27T07:38:14.565Z,"17 km NNE of Hermleigh, Texas",earthquake,1.2552708581430112,1.4674164174732955,0.1,53,reviewed,tx,tx
+2024-07-22T19:19:34.604Z,8.2328,-82.8412,2.955,5.7,mww,94,136,1.889,1.15,us,us6000nejp,2024-07-24T17:10:14.040Z,"5 km SSE of Puerto Armuelles, Panama",earthquake,7.03,3.993,0.05,38,reviewed,us,us
+2024-07-21T02:53:48.692Z,14.6238,-89.9044,265.536,6.2,mww,141,29,0.582,1.16,us,us7000n0ka,2024-07-25T05:05:19.366Z,"7 km SW of San Pedro Pinula, Guatemala",earthquake,7.67,3.709,0.025,155,reviewed,us,us
+2024-07-19T01:50:47.675Z,-23.0467,-67.7818,117.434,7.4,mww,105,29,0.378,1.12,us,us7000n05d,2024-07-25T18:55:40.066Z,"45 km ESE of San Pedro de Atacama, Chile",earthquake,7.05,2.719,0.026,144,reviewed,us,us
+2024-07-11T15:08:47.501Z,48.8127,-128.7254,10,6.4,mww,60,68,1.869,1.18,us,us7000mykj,2024-07-27T15:18:54.641Z,"209 km WSW of Tofino, Canada",earthquake,3.85,1.902,0.041,58,reviewed,us,us
+2024-07-11T02:13:17.720Z,6.0898,123.1548,627.865,7.1,mww,401,17,2.598,0.83,us,us7000myfa,2024-07-26T23:19:49.783Z,"105 km WSW of Sangay, Philippines",earthquake,6.39,2.824,0.055,32,reviewed,us,us
+2024-07-10T04:55:41.773Z,-53.301,25.361,4,6.6,mww,106,23,18.343,0.72,us,us7000my76,2024-07-21T23:31:15.189Z,"south of Africa",earthquake,10.1,1.746,0.05,38,reviewed,us,us
+2024-06-28T05:36:36.965Z,-15.8265,-74.4635,24.442,7.2,mww,105,46,4.683,0.91,us,us6000n8tq,2024-07-19T06:07:10.933Z,"11 km WSW of Atiquipa, Peru",earthquake,9.14,3.326,0.041,56,reviewed,us,us
